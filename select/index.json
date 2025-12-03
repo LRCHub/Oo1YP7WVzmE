@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "BMF",
+  "base_artist": "SZA",
+  "createdAt": "2025-12-03T08:28:37.127656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blowin Money Fast (BMF)",
+      "artist": "Rick Ross",
+      "has_synced": false,
+      "path": "select/01_Blowin_Money_Fast_(BMF)_Rick_Ross.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blowin Money Fast (Bmf) (feat. Styles P)",
+      "artist": "Rick Ross",
+      "has_synced": false,
+      "path": "select/02_Blowin_Money_Fast_(Bmf)_(feat._Styles_P)_Rick_Ross.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BMF (Blowin' Money Fast)",
+      "artist": "Rick Ross",
+      "has_synced": true,
+      "path": "select/03_BMF_(Blowin'_Money_Fast)_Rick_Ross.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BMF",
+      "artist": "Enima",
+      "has_synced": false,
+      "path": "select/04_BMF_Enima.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BMF",
+      "artist": "Millyz feat. Vory",
+      "has_synced": true,
+      "path": "select/05_BMF_Millyz_feat._Vory.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BMF",
+      "artist": "Millyz/Vory",
+      "has_synced": true,
+      "path": "select/06_BMF_Millyz_Vory.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BMF (feat. Freeze Corleone)",
+      "artist": "Dadinho",
+      "has_synced": true,
+      "path": "select/07_BMF_(feat._Freeze_Corleone)_Dadinho.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Freestyle BMF #1",
+      "artist": "Koba LaD",
+      "has_synced": false,
+      "path": "select/08_Freestyle_BMF__1_Koba_LaD.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BMF",
+      "artist": "Millyz feat. Vory",
+      "has_synced": true,
+      "path": "select/09_BMF_Millyz_feat._Vory.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BMF",
+      "artist": "BabyTron",
+      "has_synced": true,
+      "path": "select/10_BMF_BabyTron.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Freestyle BMF #2",
+      "artist": "Koba LaD",
+      "has_synced": true,
+      "path": "select/11_Freestyle_BMF__2_Koba_LaD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BMF (feat. Seonna, Carlo Mesina & Earl of Manila)",
+      "artist": "Jensen Gomez",
+      "has_synced": true,
+      "path": "select/12_BMF_(feat._Seonna,_Carlo_Mesina_&_Earl_of_Manila)_Jensen_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BMF (feat. Young Jeezy)",
+      "artist": "42 Dugg",
+      "has_synced": true,
+      "path": "select/13_BMF_(feat._Young_Jeezy)_42_Dugg.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BMF",
+      "artist": "42 Dugg",
+      "has_synced": false,
+      "path": "select/14_BMF_42_Dugg.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BMF",
+      "artist": "42 Dugg feat. Jeezy",
+      "has_synced": false,
+      "path": "select/15_BMF_42_Dugg_feat._Jeezy.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "BMF (feat. Freeze Corleone)",
+      "artist": "Dadinho",
+      "has_synced": true,
+      "path": "select/16_BMF_(feat._Freeze_Corleone)_Dadinho.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "BMF (ft. Rick Ross, Styles P.)",
+      "artist": "DJ Rell",
+      "has_synced": false,
+      "path": "select/17_BMF_(ft._Rick_Ross,_Styles_P.)_DJ_Rell.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "BMF",
+      "artist": "Vory",
+      "has_synced": true,
+      "path": "select/18_BMF_Vory.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "03_Rick_Ross_-_Blowin_Money_Fast_(Bmf)_(Feat._Styles_P)",
+      "artist": "Rick Ross",
+      "has_synced": false,
+      "path": "select/19_03_Rick_Ross_-_Blowin_Money_Fast_(Bmf)_(Feat._Styles_P)_Rick_Ross.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "BMF",
+      "artist": "Jøtta",
+      "has_synced": true,
+      "path": "select/20_BMF_Jøtta.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BMF",
+      "artist": "SZA",
+      "has_synced": false,
+      "path": "select/pl_01_BMF_SZA.txt"
+    }
+  ]
+}
